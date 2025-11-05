@@ -1,0 +1,2 @@
+# fan_out_fan_in_reto_2
+Implementación patrón fan_out_fan_in
