@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="reto.service.test.ResultsServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-11-05T22:06:31.602Z" hostname="PB0B0925074" time="0.114">
+  <properties/>
+  <testcase name="resultsSquareNumbersThrowsExceptionForInvalidGenerationParams()" classname="reto.service.test.ResultsServiceTest" time="0.023"/>
+  <testcase name="resultsSquareNumbersGeneratesRandomNumbersWhenInputIsEmpty()" classname="reto.service.test.ResultsServiceTest" time="0.076"/>
+  <testcase name="resultsSquareNumbersWithValidNumbersList()" classname="reto.service.test.ResultsServiceTest" time="0.004"/>
+  <testcase name="resultsSquareNumbersProcessesAndSortsResultsCorrectly()" classname="reto.service.test.ResultsServiceTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
